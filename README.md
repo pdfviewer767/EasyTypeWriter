@@ -25,6 +25,6 @@ python main.py
 python build.py
 ```
 
-The packaged application is written to `dist/EasyTypeWriter`.
+The single-file executable is written to `dist/EasyTypeWriter.exe`.
 
 User accounts, settings, progress, profile images, and encryption keys are stored in the current user's application-data directory and are intentionally excluded from this repository.

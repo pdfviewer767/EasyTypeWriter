@@ -44,6 +44,7 @@ def main():
     build_paths = [
         "build",
         "dist/EasyTypeWriter",
+        "dist/EasyTypeWriter.exe",
         "EasyTypeWriter.spec",
         "dist/Adam Typing",
         "Adam Typing.spec"
