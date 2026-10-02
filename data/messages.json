@@ -1,0 +1,10 @@
+{
+  "ar": {
+    "welcome": "مرحباً بك في EasyTypeWriter! نتمنى لك تجربة ممتعة ومفيدة.",
+    "instructions": "هنا يمكن وضع التعليمات والشروحات للاختبار. اقرأ بعناية قبل البدء."
+  },
+  "en": {
+    "welcome": "Welcome to EasyTypeWriter! We wish you a fun and productive experience.",
+    "instructions": "Here you can put instructions and explanations for the test. Please read carefully before starting."
+  }
+}

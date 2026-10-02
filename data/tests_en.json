@@ -1,0 +1,98 @@
+{
+  "Beginner": [
+    {
+      "id": 1,
+      "title": "Blue Sky",
+      "content": "The sky is blue and the birds are flying happily this morning.",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "title": "At the Park",
+      "content": "Tom went to the park and played on the swing with his sister.",
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "title": "My Dog",
+      "content": "My dog loves to run in the garden and play with his ball.",
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "title": "The Train Ride",
+      "content": "I took the train early in the morning. It was full of passengers.",
+      "enabled": true
+    },
+    {
+      "id": 5,
+      "title": "Writing a Letter",
+      "content": "I wrote a letter to my friend to tell him how much I miss him.",
+      "enabled": true
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": 6,
+      "title": "The Small Café",
+      "content": "I sat in a small café near the main street. The smell of coffee filled the air and soft music played in the background.",
+      "enabled": true
+    },
+    {
+      "id": 7,
+      "title": "A Day at the Beach",
+      "content": "During summer vacation, we went to the beach. We played in the sand, collected shells, and swam in the blue water.",
+      "enabled": true
+    },
+    {
+      "id": 8,
+      "title": "Village Market",
+      "content": "The weekly market in the village was full of life. Sellers shouted about their goods while children ran through the narrow streets.",
+      "enabled": true
+    },
+    {
+      "id": 9,
+      "title": "New Hobby",
+      "content": "I started learning to play the guitar. At first, it was difficult, but with practice I became better every day.",
+      "enabled": true
+    },
+    {
+      "id": 10,
+      "title": "Power of Reading",
+      "content": "Reading expands our horizons and teaches us to think critically. Every new book is a new journey.",
+      "enabled": true
+    }
+  ],
+  "Advanced": [
+    {
+      "id": 11,
+      "title": "City of the Future",
+      "content": "Imagine a city powered entirely by clean energy. Electric cars move quietly, buildings shine with solar panels, and streets are filled with greenery.",
+      "enabled": true
+    },
+    {
+      "id": 12,
+      "title": "Night in the Desert",
+      "content": "At night, the desert looked like a painting full of stars. The air was cold and the wind played an endless song.",
+      "enabled": true
+    },
+    {
+      "id": 13,
+      "title": "Artificial Intelligence",
+      "content": "As AI advances, questions arise about the future of jobs and data privacy. The challenge is finding balance between benefits and risks.",
+      "enabled": true
+    },
+    {
+      "id": 14,
+      "title": "Time Travel",
+      "content": "If humans could travel through time, how would history change? A question that excites both scientists and philosophers.",
+      "enabled": true
+    },
+    {
+      "id": 15,
+      "title": "Music and Emotions",
+      "content": "Music is not just sound; it is a universal language that expresses human emotions and brings hearts closer together.",
+      "enabled": true
+    }
+  ]
+}

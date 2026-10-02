@@ -1,0 +1,98 @@
+{
+  "Beginner": [
+    {
+      "id": 1,
+      "title": "The Quick Fox",
+      "content": "the quick brown fox jumps over the lazy dog.",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "title": "Seashell Seller",
+      "content": "she sells seashells by the seashore. the shells she sells are surely seashells.",
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "title": "About Ali",
+      "content": "my name is ali. i live in cairo. i like to read books and play football with my friends every friday.",
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "title": "Cat and Rat",
+      "content": "a big cat sat on a red mat. the cat saw a fat rat and ran fast. the rat hid in a hat.",
+      "enabled": true
+    },
+    {
+      "id": 5,
+      "title": "Weather Talk",
+      "content": "hello! how are you today? i am fine, thank you. the weather is sunny and warm.",
+      "enabled": true
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": 6,
+      "title": "Old Library",
+      "content": "The old library was filled with the comforting smell of dusty paper. Sunlight streamed through the tall windows, illuminating countless bookshelves that reached towards the high ceiling.",
+      "enabled": true
+    },
+    {
+      "id": 7,
+      "title": "Daily Tasks",
+      "content": "After finishing my morning coffee, I checked my emails and planned my tasks for the day. The most important meeting is scheduled for 2:00 PM with the marketing team.",
+      "enabled": true
+    },
+    {
+      "id": 8,
+      "title": "Sarah and Tom",
+      "content": "\"Did you remember to buy milk on your way home?\" asked Sarah. \"Oh no, I completely forgot!\" replied Tom, looking disappointed.",
+      "enabled": true
+    },
+    {
+      "id": 9,
+      "title": "Touch Typing",
+      "content": "Learning to touch type efficiently is one of the most valuable skills for the digital age. It saves significant time and reduces fatigue.",
+      "enabled": true
+    },
+    {
+      "id": 10,
+      "title": "Password Reset",
+      "content": "To reset your password, please visit our website and click on the \"Forgot Password\" link below the login form.",
+      "enabled": true
+    }
+  ],
+  "Advanced": [
+    {
+      "id": 11,
+      "title": "Technology Impact",
+      "content": "Technological advancements, particularly in artificial intelligence, are rapidly transforming numerous industries. While this progress offers incredible opportunities, it also raises profound ethical questions.",
+      "enabled": true
+    },
+    {
+      "id": 12,
+      "title": "Rainy Scene",
+      "content": "The relentless rain hammered against the windowpane, casting shifting, watery patterns on the faded wallpaper. A single, flickering candle provided the only illumination.",
+      "enabled": true
+    },
+    {
+      "id": 13,
+      "title": "Healthcare Research",
+      "content": "The primary objective of this research is to quantitatively analyze the correlation between socioeconomic status and access to quality healthcare services.",
+      "enabled": true
+    },
+    {
+      "id": 14,
+      "title": "Ceasefire Agreement",
+      "content": "Following weeks of intense negotiations, representatives from the two conflicting nations announced a tentative ceasefire agreement late last night.",
+      "enabled": true
+    },
+    {
+      "id": 15,
+      "title": "Renewable Energy",
+      "content": "Investing in renewable energy infrastructure is no longer merely an environmentally conscious choice; it is an economic imperative.",
+      "enabled": true
+    }
+  ]
+}

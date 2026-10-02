@@ -1,0 +1,205 @@
+{
+  "Home Row": [
+    {
+      "id": 1,
+      "name": "home_row_lesson_1",
+      "title": "Lesson 1: Finger Placement",
+      "description": "Learn the home row keys: ASDF and JKL;. Place your fingers correctly and practice without looking at the keyboard.",
+      "content": "a s d f j k l ; a s d f j k l ; asdf jkl; asdf jkl;"
+    },
+    {
+      "id": 2,
+      "name": "home_row_lesson_2",
+      "title": "Lesson 2: Finger Coordination",
+      "description": "Practice moving between keys using different fingers while maintaining proper hand position.",
+      "content": "as sa jk kj ad da f; ;f sad dad fall lass"
+    },
+    {
+      "id": 3,
+      "name": "home_row_lesson_3",
+      "title": "Lesson 3: Common Combinations",
+      "description": "Build muscle memory with frequent letter combinations on the home row.",
+      "content": "ask all salad flask add sad glad half ask all salad flask"
+    },
+    {
+      "id": 4,
+      "name": "home_row_lesson_4",
+      "title": "Lesson 4: Home Row Words",
+      "description": "Type complete words using only home row letters. Focus on accuracy over speed.",
+      "content": "add sad dad fall lass ask salad flask dad adds all falls"
+    }
+  ],
+  "Top Row": [
+    {
+      "id": 5,
+      "name": "top_row_lesson_1",
+      "title": "Lesson 5: Top Row Basics",
+      "description": "Learn top row keys: QWERTYUIOP. Keep fingers curved and return to home position.",
+      "content": "q w e r t y u i o p q w e r t y u i o p"
+    },
+    {
+      "id": 6,
+      "name": "top_row_lesson_2",
+      "title": "Lesson 6: Top Row Combinations",
+      "description": "Practice moving between top row keys with proper finger movements.",
+      "content": "we er rt ty yu ui io op qp po iu uy yt tr re ew"
+    },
+    {
+      "id": 7,
+      "name": "top_row_lesson_3",
+      "title": "Lesson 7: Top Row Words",
+      "description": "Form words using top row letters. Maintain consistent rhythm.",
+      "content": "quiet write type pretty upper power quiet write type pretty upper"
+    },
+    {
+      "id": 8,
+      "name": "top_row_lesson_4",
+      "title": "Lesson 8: Home-Top Row Mix",
+      "description": "Combine home and top row keys for realistic typing practice.",
+      "content": "aq sw de fr gt hy ju ki lo p; aq sw de fr gt hy ju ki"
+    },
+    {
+      "id": 9,
+      "name": "top_row_lesson_5",
+      "title": "Lesson 9: Advanced Combinations",
+      "description": "Practice challenging combinations to improve finger independence.",
+      "content": "typewriter equipment opportunity proportion typewriter equipment"
+    },
+    {
+      "id": 10,
+      "name": "top_row_lesson_6",
+      "title": "Lesson 10: Top Row Sentences",
+      "description": "Type complete sentences using top row letters.",
+      "content": "Pretty quiet typewriter equipment. Upper power quiet type."
+    }
+  ],
+  "Bottom Row": [
+    {
+      "id": 11,
+      "name": "bottom_row_lesson_1",
+      "title": "Lesson 11: Bottom Row Basics",
+      "description": "Learn bottom row keys: ZXCVBNM,./. Use correct finger positioning.",
+      "content": "z x c v b n m , . / z x c v b n m , . /"
+    },
+    {
+      "id": 12,
+      "name": "bottom_row_lesson_2",
+      "title": "Lesson 12: Bottom Row Combinations",
+      "description": "Practice moving between bottom row keys with proper technique.",
+      "content": "zx xc cv vb bn nm m, ,. ./ vc bx n, .m /z"
+    },
+    {
+      "id": 13,
+      "name": "bottom_row_lesson_3",
+      "title": "Lesson 13: Bottom Row Words",
+      "description": "Form words using bottom row letters. Focus on less-used fingers.",
+      "content": "buzz zoom next complex vibe mix buzz zoom next complex"
+    },
+    {
+      "id": 14,
+      "name": "bottom_row_lesson_4",
+      "title": "Lesson 14: All Rows Mix",
+      "description": "Combine all three rows for comprehensive typing practice.",
+      "content": "aqz swx dec frv bgt nhy muj ,ki .lo /p; aqz swx dec"
+    },
+    {
+      "id": 15,
+      "name": "bottom_row_lesson_5",
+      "title": "Lesson 15: Bottom Row Sentences",
+      "description": "Type sentences using all keyboard rows with proper spacing.",
+      "content": "The quick brown fox jumps. Crazy zebras vex my dog."
+    }
+  ],
+  "Punctuation": [
+    {
+      "id": 16,
+      "name": "punctuation_lesson_1",
+      "title": "Lesson 16: Basic Punctuation",
+      "description": "Learn punctuation marks: , . ; : ' \" ? !. Use proper finger movements.",
+      "content": "Hello, world. How are you? I'm fine! \"Great\" isn't it? Yes; it is: wonderful."
+    },
+    {
+      "id": 17,
+      "name": "punctuation_lesson_2",
+      "title": "Lesson 17: Advanced Punctuation",
+      "description": "Practice complex punctuation: () [] {} - _ / \\ |. Use shift key correctly.",
+      "content": "(Parentheses) [Brackets] {Braces} -Hyphen_Underscore /Slash\\Backslash|Pipe"
+    },
+    {
+      "id": 18,
+      "name": "punctuation_lesson_3",
+      "title": "Lesson 18: Punctuation in Context",
+      "description": "Apply punctuation in realistic writing scenarios with proper spacing.",
+      "content": "Dr. Smith said, \"Please arrive by 8:30 p.m. - don't be late!\" (We'll start promptly.)"
+    }
+  ],
+  "Numbers and Symbols": [
+    {
+      "id": 19,
+      "name": "numbers_lesson_1",
+      "title": "Lesson 19: Number Row",
+      "description": "Learn the number row: 1234567890. Use proper finger positioning.",
+      "content": "1 2 3 4 5 6 7 8 9 0 12 34 56 78 90 100 500 1000"
+    },
+    {
+      "id": 20,
+      "name": "symbols_lesson_1",
+      "title": "Lesson 20: Symbols and Special Characters",
+      "description": "Practice symbols: ! @ # $ % ^ & * ( ) - _ + =. Use shift key properly.",
+      "content": "! @ # $ % ^ & * ( ) - _ + = { } [ ] | \\ : ; \" ' < > , . ? /"
+    },
+    {
+      "id": 21,
+      "name": "numbers_symbols_mix",
+      "title": "Lesson 21: Numbers and Symbols in Context",
+      "description": "Combine numbers and symbols in realistic scenarios like programming.",
+      "content": "10 + 20 = 30 (5 * 4) / 2 = 10 #LearnTyping 100% \"text in quotes\""
+    }
+  ],
+  "Sentences and Paragraphs": [
+    {
+      "id": 22,
+      "name": "sentences_lesson_1",
+      "title": "Lesson 22: Basic Sentences",
+      "description": "Practice typing complete sentences with proper spacing and punctuation.",
+      "content": "The quick brown fox jumps over the lazy dog. Practice makes perfect."
+    },
+    {
+      "id": 23,
+      "name": "sentences_lesson_2",
+      "title": "Lesson 23: Intermediate Paragraphs",
+      "description": "Type longer paragraphs with varied sentence structures.",
+      "content": "Touch typing is an essential skill in today's digital world. By practicing daily, you can significantly increase your typing speed and accuracy. Remember to maintain proper posture and hand position."
+    },
+    {
+      "id": 24,
+      "name": "paragraphs_lesson_1",
+      "title": "Lesson 24: Advanced Paragraphs",
+      "description": "Type multi-paragraph texts with complex vocabulary.",
+      "content": "Mastering touch typing requires consistent practice and proper technique. Start with basic finger placement on the home row, then gradually progress to more complex combinations. With regular practice, you'll develop muscle memory that allows you to type without looking at the keyboard. This skill will save you countless hours over your lifetime."
+    }
+  ],
+  "Advanced Mastery": [
+    {
+      "id": 25,
+      "name": "advanced_lesson_1",
+      "title": "Lesson 25: Technical Texts",
+      "description": "Practice typing technical content with special terminology and symbols.",
+      "content": "def calculate_wpm(words, minutes):\n    wpm = words / minutes\n    return f\"Your typing speed is {wpm:.1f} words per minute\"\n\nprint(calculate_wpm(320, 5))"
+    },
+    {
+      "id": 26,
+      "name": "advanced_lesson_2",
+      "title": "Lesson 26: Literary Texts",
+      "description": "Type complex literary passages with varied vocabulary.",
+      "content": "The autumn leaves danced in the wind, a whirlwind of crimson and gold against the azure sky. In that moment, I felt an inexplicable connection to the rhythm of nature, as if the universe itself was breathing with me."
+    },
+    {
+      "id": 27,
+      "name": "advanced_lesson_3",
+      "title": "Lesson 27: Speed Drills",
+      "description": "Challenge your speed and accuracy with timed typing exercises.",
+      "content": "Modern technology has transformed how we work and communicate. Digital literacy now includes touch typing as a fundamental skill. Employers increasingly value fast, accurate typists who can efficiently handle information. Learning this skill early provides lifelong benefits across countless professions."
+    }
+  ]
+}

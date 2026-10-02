@@ -1,0 +1,6 @@
+PyQt5==5.15.7
+appdirs==1.4.4
+cryptography>=42,<47
+googletrans==4.0.0rc1
+pycryptodome==3.20.0
+pyinstaller>=6.10,<7
